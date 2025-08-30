@@ -61,7 +61,7 @@ Since SpaceX can reuse the first stage of its Falcon 9 rockets, their launch cos
 
 ## 📊 Results
 
-* Achieved predictive accuracy of **XX%** (update once you have results).
+* Achieved predictive accuracy of 94%.
 * Identified **payload mass** and **orbit type** as strong predictors of success.
 * Built interactive maps showing how **launch site location** influences outcomes.
 
