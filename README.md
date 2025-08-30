@@ -44,8 +44,7 @@ Since SpaceX can reuse the first stage of its Falcon 9 rockets, their launch cos
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/MIbthesam505/spacex-landing-prediction.git
-   cd spacex-landing-prediction
+   git clone https://github.com/MIbthesam505/SpaceX_First_Stage_Landing_Prediction
    ```
 2. Install dependencies:
 
